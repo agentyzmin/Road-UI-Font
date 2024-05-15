@@ -22,11 +22,11 @@
 
 Підтримує моноширинні цифри:
 
-![ui6](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/4e062d17-ae35-448d-8522-53d9b75e09f3)
+![ui7](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/f977edd9-892c-4f9e-8ab4-1a9b10a529f7)
 
 Та дорожні стрілки з Road UA:
 
-![ui7](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/f977edd9-892c-4f9e-8ab4-1a9b10a529f7)
+![ui6](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/4e062d17-ae35-448d-8522-53d9b75e09f3)
 
 &nbsp;
 ## Ліцензія [CC BY–NC–ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.uk)
