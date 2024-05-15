@@ -29,10 +29,8 @@
 ![ui6](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/4e062d17-ae35-448d-8522-53d9b75e09f3)
 
 &nbsp;
-## Ліцензія [CC BY–NC–ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.uk)
+## Ліцензія [CC BY–ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.uk)
 При використанні обов’язково вказувати авторів, можна копіювати, розповсюджувати та використовувати у некомерційних цілях, заборонено модифікувати, продавати та обмежувати інших у використанні шрифту.
-
-![license](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/e2785b7f-8dc7-4fb2-b22d-2ce8eafd6eb8)
 
 &nbsp;
 ## Над шрифтом працювали
