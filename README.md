@@ -7,9 +7,9 @@
 ## Шрифт в дії
 На прикладі дизайн-системи Primer від GitHub, інтерфейсу Notion та нативної мобільної навігації:
 
-![ui1](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/1080801c-70fb-4ced-9519-7f878e475175)
+![ui1](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/c896ccdf-d64f-4cc3-99b6-01d06f8af797)
 ![ui2](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/73ff4242-1b2f-41b8-aa5e-4accee47a3a0)
-![ui3](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/190f99f3-eda1-4473-bb5a-008c8bff3963)
+![ui3](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/014ba67b-4bb5-41e7-8528-893c91433337)
 ![ui4](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/83c3188a-852b-4756-a829-96c9fe5bca7a)
 ![ui9](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/467c8767-94f5-4fe3-9922-514a95227c1f)
 ![ui8](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/4b39f915-ad33-436f-af9f-5e463dac4e87)
