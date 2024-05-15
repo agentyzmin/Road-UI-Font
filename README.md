@@ -17,19 +17,15 @@
 &nbsp;
 ## Накреслення та можливості
 Шрифт містить вісім накреслень: від тонкого до найжирнішого:
-| Звичайний | Нахилений | Товщина, CSS |
-|:--|:--|:--|
-| Thin | Thin Oblique | 100 |
-| Extra Light | Extra Light Oblique | 200 |
-| Light | Light Oblique | 300 |
-| Regular | Oblique | 400 |
-| Medium | Medium Oblique | 500 |
-| Semi Bold | Semi Bold Oblique | 600 |
-| Bold | Bold Oblique | 700 |
-| Extra Bold | Extra Bold Oblique | 800 |
 
 ![ui5](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/c9685cb6-3ec6-4290-b64d-9528a3d9abae)
+
+Підтримує моноширинні цифри:
+
 ![ui6](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/4e062d17-ae35-448d-8522-53d9b75e09f3)
+
+Та дорожні стрілки з Road UA:
+
 ![ui7](https://github.com/agentyzmin/Road-UI-Font/assets/75941554/f977edd9-892c-4f9e-8ab4-1a9b10a529f7)
 
 &nbsp;
