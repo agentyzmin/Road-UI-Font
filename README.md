@@ -1,7 +1,7 @@
 # Road UI, шрифт для інтерфейсів
 Зроблений на основі [дорожнього шрифта України](https://agentyzmin.github.io/Road-UA-Font/). Шрифт адаптований для використання в екранних інтерфейсах, веб-сайтах та мобільних застосунках. Підтримує моноширинні цифри та стрілки (←↑→↓↖↗↘↙). Доступні звичайна та нахилена версії. Певна річ, з кирилицею.
 
-[**Завантажити шрифт**](https://github.com/agentyzmin/Road-UI-Font/tree/main/Road%20UI) в OTF, TTF, EOT, WOFF, WOFF2
+[**Завантажити шрифт**](https://github.com/agentyzmin/Road-UI-Font/releases/download/1.0/Road.UI.Font.1.0.zip) в OTF, TTF, EOT, WOFF, WOFF2
 
 
 ## Шрифт в дії
